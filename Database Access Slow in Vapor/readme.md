@@ -1,0 +1,3 @@
+# Database Access Slow in Vapor
+Recently I was trying to deploy a Laravel Application using Vapor. I had to create a database for my application using Vapor. As per the Vapor Docs, a network would automatically be created when deploying for the first time. But in our...
+[Read more](https://www.2hatslogic.com/category/laravel/)

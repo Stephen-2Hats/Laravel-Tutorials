@@ -1,0 +1,3 @@
+# Best Laravel Security Features For Your Application
+Laravel is one of the most used frameworks within the PHP ecosystem. It is a robust yet easy to understand open source PHP framework that follows a model-view controller design. You can rely on no-code website builders if you...
+[Read more](https://www.2hatslogic.com/blog/best-laravel-security-features/)

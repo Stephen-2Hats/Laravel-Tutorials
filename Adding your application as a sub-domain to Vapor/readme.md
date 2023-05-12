@@ -1,0 +1,3 @@
+# Adding your application as a sub-domain to Vapor
+Recently I was trying to deploy a Laravel Application using Vapor. I wanted to deploy it to a subdomain. There were many projects deployed on several subdomains of our main domain. Since I wanted to deploy using Vapor which is...
+[Read more](https://www.2hatslogic.com/blog/adding-sub-domain-vapor/)
